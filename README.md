@@ -4,6 +4,9 @@
 
 This project is a YouTube video player clone built using React.js. It allows users to search for and watch YouTube videos within the application. It also includes features such as video playback, channel browsing, and search functionality.
 
+![YouTube Clone](./youtube-clone.png)
+
+
 ## Table of Contents
 
 - [Features](#features)
