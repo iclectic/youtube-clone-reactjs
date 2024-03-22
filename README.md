@@ -1,5 +1,5 @@
 
-```
+
 # YouTube Clone with React.js
 
 This project is a YouTube video player clone built using React.js. It allows users to search for and watch YouTube videos within the application. It also includes features such as video playback, channel browsing, and search functionality.
@@ -58,7 +58,6 @@ To run the project locally, follow these steps:
 
 Please ensure that the name of the `App.js` file is changed to `app.js` (with lowercase) before running the project to avoid compilation or rendering errors.
 
-```
 
 This advice should help users avoid potential issues with the file naming convention. Feel free to customize it further as needed!
 
