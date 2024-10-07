@@ -2,7 +2,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { Box } from '@mui/material';
 import { Navbar, Feed, VideoDetail, ChannelDetail, SearchFeed } from './components';
 
-/* Please ensure that the name of this file is app.js and not App.js to avoid compilation issues with this project. Cheers */
+
 
 const App = () => (
  <BrowserRouter>
